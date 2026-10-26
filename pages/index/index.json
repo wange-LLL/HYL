@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "hyl-swiper": "../../components/HylSwiper",
+    "custom-navbar": "./components/CustomNavbar",
+    "categorypanel": "./components/Categorypanel",
+    "hot-panel": "./components/HotPanel",
+    "hyl-guess": "../../components/HylGuess"
+  }
+}
